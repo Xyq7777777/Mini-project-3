@@ -5,7 +5,7 @@ React Native is an open source cross-platform frameworks which are used to devel
 That means developers save almost half of their time and development cost. It was made open source in 2015 and since it has grown to become the most favored technology for most of the top industries including Facebook (itself), UberEats and many others.
 
 ### Pros React Native
-- Saves Development Time
+- Saves Development Time  
 Almost 40% of development time can be saved when you use React Native framework. When you use React Native to develop an application from the start till deployment take comparatively less time than Native app development.
 
 ### Cons of React Native
